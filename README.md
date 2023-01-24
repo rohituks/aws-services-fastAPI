@@ -13,3 +13,5 @@
    3.Populate `Makefile`
 
 [![Python application test with Github Actions](https://github.com/rohituks/aws-services-fastAPI/actions/workflows/devops.yml/badge.svg)](https://github.com/rohituks/aws-services-fastAPI/actions/workflows/devops.yml)
+
+4. Build cli using Python Fire library ` ./cli-fire.py --help` to test logic
