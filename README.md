@@ -12,4 +12,4 @@
    ( How to check version numbers `pip freeze | less`)
    3.Populate `Makefile`
 
-[![Python application test with Github Actions](https://github.com/rohituks/DataStructures-Algorithms/actions/workflows/devops.yml/badge.svg)](https://github.com/rohituks/DataStructures-Algorithms/actions/workflows/devops.yml)
+[![Python application test with Github Actions](https://github.com/rohituks/aws-services-fastAPI/actions/workflows/devops.yml/badge.svg)](https://github.com/rohituks/aws-services-fastAPI/actions/workflows/devops.yml)
