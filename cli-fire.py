@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 import fire
 from mylib import logic
 
